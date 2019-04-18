@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersonalEmploymentService</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title">Заголовок</string>
+    <string name="content">Содержимое</string>
+    <string name="text_note_title">Создать текстовую заметку</string>
+    <string name="voice_note_title">Создать голосовую заметку</string>
+    <string name="action_save_note">Сохранить</string>
+</resources>
